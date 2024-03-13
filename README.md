@@ -14,12 +14,12 @@ Email: niezhenwu@126.com
 
 ## File description
 
-Image-gradient-guided-wavefront-shaping\n
----- Source: Different targets tested in the optimization.
----- opt.m: The main file of the simulation.
----- initial_pra.m: The file initializing parameters for optimization.
----- show_pic.m: Draw Intensity distribution on the camera.
----- Image_metric.m: Cost function for GA including different image metrics(e.g. image gradient, modified entropy, image variance, single point) 
+Image-gradient-guided-wavefront-shaping  
+---- Source: Different targets tested in the optimization.  
+---- opt.m: The main file of the simulation.  
+---- initial_pra.m: The file initializing parameters for optimization.  
+---- show_pic.m: Draw Intensity distribution on the camera.  
+---- Image_metric.m: Cost function for GA including different image metrics(e.g. image gradient, modified entropy, image variance, single point)   
 
 ## How to Start
 
