@@ -16,7 +16,7 @@ Email: niezhenwu@126.com
 
 ## File description
 
-Image-gradient-guided-wavefront-shaping
+Image-gradient-guided-wavefront-shaping\n
 ---- Source: Different targets tested in the optimization.
 ---- opt.m: The main file of the simulation.
 ---- initial_pra.m: The file initializing parameters for optimization.
