@@ -8,10 +8,8 @@ Paper Links: https://doi.org/10.1364/OPTICA.507310
 
 ​Citation Format: Shuai Sun, Zhen-Wu Nie, Long-Kun Du, Chen Chang, and Wei-Tao Liu, "Overcoming the diffraction limit by exploiting unmeasured scattering media," Optica 11, 385-391 (2024) 
 
-Contact Information:
-
-Code Author: Nie Zhenwu
-
+Contact Information:  
+Code Author: Nie Zhenwu  
 Email: niezhenwu@126.com
 
 ## File description
